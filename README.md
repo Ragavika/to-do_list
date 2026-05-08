@@ -46,7 +46,7 @@ npm run dev
 
 
 5. Open your browser:
-Navigate to 
+Navigate to https://to-do-list-sigma-liart.vercel.app/
 
 Here are the screenshots 
 
