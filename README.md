@@ -1,16 +1,50 @@
-# React + Vite
+Kanban Task Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional, Trello-inspired task management application built with **React.js** and **Vite**. This project focuses on the "React Way" of thinking—using state-driven UI, component-based architecture, and persistent data.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Three-Column Layout: Organize tasks into "To Do", "In Progress", and "Done".
+* Dynamic Task Management: Add new tasks and delete them instantly.
+* Column Navigation: Move tasks between columns using intuitive directional buttons.
+* State-Driven UI: No manual DOM manipulation; the UI reflects the data state automatically.
+* Priority System: Assign "High", "Medium", or "Low" priority to tasks.
+* Conditional Styling: Visual priority cues using color-coded badges and borders.
+* Persistent Storage: Uses `localStorage` to save your tasks. Your board stays exactly as you left it, even after a page refresh.
 
-## React Compiler
+Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Framework: [React.js](https://reactjs.org/)
+* Build Tool: [Vite](https://vitejs.dev/)
+* State Management: React Hooks (`useState`, `useEffect`)
+* Styling: CSS3 (Flexbox & Grid)
 
-## Expanding the ESLint configuration
+Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Ragavika/to-do_list.git
+
+```
+2. Navigate to the folder:
+```bash
+cd my-kanban-board
+
+```
+3. Install dependencies:
+```bash
+npm install
+
+```
+4. Start the development server:
+```bash
+npm run dev
+
+```
+
+
+5. Open your browser:
+Navigate to 
+
