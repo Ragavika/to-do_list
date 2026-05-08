@@ -48,3 +48,9 @@ npm run dev
 5. Open your browser:
 Navigate to 
 
+Here are the screenshots 
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/559c3557-f2f2-438c-acfd-083b20d15c3f" />
+
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ed8fd493-1481-469f-a016-43322e058be3" />
